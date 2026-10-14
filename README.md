@@ -82,12 +82,6 @@ I'm **Akira**, a **BSc Computer Science student at the University of Southampton
 | [**Retail Management System**](https://github.com/Akira5298/Retail-Management-System) | Desktop retail app covering stock, checkout, discounts, order tracking, and PDF receipts. | Java · JavaFX · SQLite |
 | [**Banking System**](https://github.com/Akira5298/Banking-System) | Console banking application with PIN authentication, transfers, validation, and persistent records. | C |
 
-### Space Shooter 🚀
-
-<div align="center">
-  <img src="assets/space-shooter.gif" alt="Space Shooter animation based on my GitHub contributions" width="95%" />
-</div>
-
 ### Minesweeper 💠
 
 <div align="center">
@@ -103,3 +97,9 @@ I'm **Akira**, a **BSc Computer Science student at the University of Southampton
 ---
 
 <div align="center"><sub>Learn · Build · Iterate · Share</sub></div>
+
+### Space Shooter 🚀
+
+<div align="center">
+  <img src="assets/space-shooter.gif" alt="Space Shooter animation based on my GitHub contributions" width="95%" />
+</div>
