@@ -1,4 +1,5 @@
-name: Generate Pac-Man and Breakout
+
+name: Generate Arcade Games
 
 on:
   workflow_dispatch:
@@ -12,13 +13,15 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 20
+
     steps:
-      - name: Generate Pac-Man and Breakout SVGs
+      - name: Generate Arcade Contribution Graphs
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          games: 'pacman,breakout'
+          games: 'pacman,breakout,galaga,bomberman,puzzle-bobble,minesweeper'
           hide_month_labels: 'false'
+
       - name: Publish arcade SVGs to output branch
         uses: peaceiris/actions-gh-pages@v4
         with:
