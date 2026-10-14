@@ -20,12 +20,6 @@ I'm **Akira**, a **BSc Computer Science student at the University of Southampton
 - **What I enjoy building:** desktop applications, automation pipelines, data-driven tools, and hardware-connected software.
 - **Languages:** Japanese (native) · Italian (native) · English (fluent) · Mandarin (intermediate).
 
-### Space Shooter 🚀
-
-<div align="center">
-  <img src="assets/space-shooter.gif" alt="Space shooter animation based on my contribution history" width="95%" />
-</div>
-
 ### Galaga 👾
 
 <div align="center">
@@ -44,16 +38,6 @@ I'm **Akira**, a **BSc Computer Science student at the University of Southampton
 | **Machine Learning Summer Programme** · Seoul National University (2025) | Applied regression with polynomial features and L2 regularisation; supported by a University of Southampton Mobility Scholarship. |
 | **Marketing / Product Assistant** · SaaS company (2024–2025) | Analysed customer LTV, churn, ARPU, and segments to support product and retention decisions; contributed to product testing and UI/UX improvements. |
 | **Stanford e-Japan Award** · Stanford SPICE (2021) | Selected for the international education programme and received its top e-Japan award. |
-
-### Contribution Snake 🐍
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akira5298/Akira5298/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akira5298/Akira5298/output/github-snake-light.svg" />
-    <img src="https://raw.githubusercontent.com/Akira5298/Akira5298/output/github-snake-dark.svg" alt="Contribution graph snake animation" width="100%" />
-  </picture>
-</div>
 
 ### Bomberman 💣
 
@@ -89,16 +73,6 @@ I'm **Akira**, a **BSc Computer Science student at the University of Southampton
   </picture>
 </div>
 
-### Puzzle Bobble 🫧
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akira5298/Akira5298/output/puzzle-bobble-contribution-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akira5298/Akira5298/output/puzzle-bobble-contribution-graph.svg" />
-    <img src="https://raw.githubusercontent.com/Akira5298/Akira5298/output/puzzle-bobble-contribution-graph-dark.svg" alt="Puzzle Bobble contribution graph animation" width="100%" />
-  </picture>
-</div>
-
 ## Featured projects
 
 | Project | What it does | Stack |
@@ -107,16 +81,6 @@ I'm **Akira**, a **BSc Computer Science student at the University of Southampton
 | [**Gold Price Tracker**](https://github.com/Akira5298/Gold-Price-Tracker) | Automates gold-price collection, validation, deduplicated MySQL storage, scheduled runs, and trend visualisation. | Bash · MySQL · cron · GNUplot |
 | [**Retail Management System**](https://github.com/Akira5298/Retail-Management-System) | Desktop retail app covering stock, checkout, discounts, order tracking, and PDF receipts. | Java · JavaFX · SQLite |
 | [**Banking System**](https://github.com/Akira5298/Banking-System) | Console banking application with PIN authentication, transfers, validation, and persistent records. | C |
-
-### Breakout 🧱
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akira5298/Akira5298/output/breakout-contribution-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akira5298/Akira5298/output/breakout-contribution-graph.svg" />
-    <img src="https://raw.githubusercontent.com/Akira5298/Akira5298/output/breakout-contribution-graph-dark.svg" alt="Breakout contribution graph animation" width="100%" />
-  </picture>
-</div>
 
 ### Minesweeper 💠
 
