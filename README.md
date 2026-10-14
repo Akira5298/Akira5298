@@ -26,6 +26,16 @@ I'm **Akira**, a **BSc Computer Science student at the University of Southampton
   <img src="assets/space-shooter.gif" alt="Space shooter animation based on my contribution history" width="95%" />
 </div>
 
+### Galaga 👾
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akira5298/Akira5298/output/galaga-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akira5298/Akira5298/output/galaga-contribution-graph.svg" />
+    <img src="https://raw.githubusercontent.com/Akira5298/Akira5298/output/galaga-contribution-graph-dark.svg" alt="Galaga contribution graph animation" width="100%" />
+  </picture>
+</div>
+
 ## Experience & highlights
 
 | Experience | Highlights |
@@ -42,6 +52,16 @@ I'm **Akira**, a **BSc Computer Science student at the University of Southampton
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akira5298/Akira5298/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akira5298/Akira5298/output/github-snake-light.svg" />
     <img src="https://raw.githubusercontent.com/Akira5298/Akira5298/output/github-snake-dark.svg" alt="Contribution graph snake animation" width="100%" />
+  </picture>
+</div>
+
+### Bomberman 💣
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akira5298/Akira5298/output/bomberman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akira5298/Akira5298/output/bomberman-contribution-graph.svg" />
+    <img src="https://raw.githubusercontent.com/Akira5298/Akira5298/output/bomberman-contribution-graph-dark.svg" alt="Bomberman contribution graph animation" width="100%" />
   </picture>
 </div>
 
@@ -69,6 +89,16 @@ I'm **Akira**, a **BSc Computer Science student at the University of Southampton
   </picture>
 </div>
 
+### Puzzle Bobble 🫧
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akira5298/Akira5298/output/puzzle-bobble-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akira5298/Akira5298/output/puzzle-bobble-contribution-graph.svg" />
+    <img src="https://raw.githubusercontent.com/Akira5298/Akira5298/output/puzzle-bobble-contribution-graph-dark.svg" alt="Puzzle Bobble contribution graph animation" width="100%" />
+  </picture>
+</div>
+
 ## Featured projects
 
 | Project | What it does | Stack |
@@ -85,6 +115,16 @@ I'm **Akira**, a **BSc Computer Science student at the University of Southampton
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akira5298/Akira5298/output/breakout-contribution-graph-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akira5298/Akira5298/output/breakout-contribution-graph.svg" />
     <img src="https://raw.githubusercontent.com/Akira5298/Akira5298/output/breakout-contribution-graph-dark.svg" alt="Breakout contribution graph animation" width="100%" />
+  </picture>
+</div>
+
+### Minesweeper 💠
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akira5298/Akira5298/output/minesweeper-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akira5298/Akira5298/output/minesweeper-contribution-graph.svg" />
+    <img src="https://raw.githubusercontent.com/Akira5298/Akira5298/output/minesweeper-contribution-graph-dark.svg" alt="Minesweeper contribution graph animation" width="100%" />
   </picture>
 </div>
 
