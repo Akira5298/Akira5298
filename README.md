@@ -73,15 +73,6 @@ I'm **Akira**, a **BSc Computer Science student at the University of Southampton
   </picture>
 </div>
 
-## Featured projects
-
-| Project | What it does | Stack |
-| :--- | :--- | :--- |
-| [**Industrial Control Panel**](https://github.com/Akira5298/Industrial-Control-Panel) | Industrial machine control interface featuring reactive state management, multiple safety-related subsystems, and UI-to-backend integration. | Kotlin · Compose Desktop · MVVM · StateFlow |
-| [**Gold Price Tracker**](https://github.com/Akira5298/Gold-Price-Tracker) | Automates gold-price collection, validation, deduplicated MySQL storage, scheduled runs, and trend visualisation. | Bash · MySQL · cron · GNUplot |
-| [**Retail Management System**](https://github.com/Akira5298/Retail-Management-System) | Desktop retail app covering stock, checkout, discounts, order tracking, and PDF receipts. | Java · JavaFX · SQLite |
-| [**Banking System**](https://github.com/Akira5298/Banking-System) | Console banking application with PIN authentication, transfers, validation, and persistent records. | C |
-
 ### Minesweeper 💠
 
 <div align="center">
