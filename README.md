@@ -30,6 +30,16 @@ I'm **Akira**, a **BSc Computer Science student at the University of Southampton
   </picture>
 </div>
 
+### Bomberman 💣
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akira5298/Akira5298/output/bomberman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akira5298/Akira5298/output/bomberman-contribution-graph.svg" />
+    <img src="https://raw.githubusercontent.com/Akira5298/Akira5298/output/bomberman-contribution-graph-dark.svg" alt="Bomberman contribution graph animation" width="100%" />
+  </picture>
+</div>
+
 ## Experience & highlights
 
 | Experience | Highlights |
@@ -39,13 +49,13 @@ I'm **Akira**, a **BSc Computer Science student at the University of Southampton
 | **Marketing / Product Assistant** · SaaS company (2024–2025) | Analysed customer LTV, churn, ARPU, and segments to support product and retention decisions; contributed to product testing and UI/UX improvements. |
 | **Stanford e-Japan Award** · Stanford SPICE (2021) | Selected for the international education programme and received its top e-Japan award. |
 
-### Bomberman 💣
+### Pac-Man 👻
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akira5298/Akira5298/output/bomberman-contribution-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akira5298/Akira5298/output/bomberman-contribution-graph.svg" />
-    <img src="https://raw.githubusercontent.com/Akira5298/Akira5298/output/bomberman-contribution-graph-dark.svg" alt="Bomberman contribution graph animation" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akira5298/Akira5298/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akira5298/Akira5298/output/pacman-contribution-graph.svg" />
+    <img src="https://raw.githubusercontent.com/Akira5298/Akira5298/output/pacman-contribution-graph-dark.svg" alt="Pac-Man contribution graph animation" width="100%" />
   </picture>
 </div>
 
@@ -62,16 +72,6 @@ I'm **Akira**, a **BSc Computer Science student at the University of Southampton
 **Data & engineering tools**
 
 ![MySQL](https://img.shields.io/badge/MySQL-0B1220?style=flat-square&logo=mysql&logoColor=22D3EE) ![SQLite](https://img.shields.io/badge/SQLite-0B1220?style=flat-square&logo=sqlite&logoColor=22D3EE) ![MATLAB](https://img.shields.io/badge/MATLAB-0B1220?style=flat-square&logoColor=22D3EE) ![Figma](https://img.shields.io/badge/Figma-0B1220?style=flat-square&logo=figma&logoColor=22D3EE) `Quartus / ModelSim` · `KiCad` · `Cisco Packet Tracer`
-
-### Pac-Man 👻
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akira5298/Akira5298/output/pacman-contribution-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akira5298/Akira5298/output/pacman-contribution-graph.svg" />
-    <img src="https://raw.githubusercontent.com/Akira5298/Akira5298/output/pacman-contribution-graph-dark.svg" alt="Pac-Man contribution graph animation" width="100%" />
-  </picture>
-</div>
 
 ### Minesweeper 💠
 
