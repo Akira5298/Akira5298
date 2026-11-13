@@ -46,7 +46,6 @@ I'm **Akira**, a **BSc Computer Science student at the University of Southampton
 | :--- | :--- |
 | **Software Development Intern — R&D** · ViTrox Technologies (2026) | Built and tested a Kotlin / Compose Desktop control panel for industrial AXI software, including rail width, conveyor, clamps, barriers, and safety sensors; debugged UI, backend, and physical-machine integration. |
 | **Machine Learning Summer Programme** · Seoul National University (2025) | Applied regression with polynomial features and L2 regularisation; supported by a University of Southampton Mobility Scholarship. |
-| **Marketing / Product Assistant** · SaaS company (2024–2025) | Analysed customer LTV, churn, ARPU, and segments to support product and retention decisions; contributed to product testing and UI/UX improvements. |
 | **Stanford e-Japan Award** · Stanford SPICE (2021) | Selected for the international education programme and received its top e-Japan award. |
 
 ### Pac-Man 👻
